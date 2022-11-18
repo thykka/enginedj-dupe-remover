@@ -43,7 +43,7 @@ $ node index.js --clean --dry /mnt/music/
 ```
 
 ```sh
-$ node index.js --check /mnt/music/
+$ node index.js --missing /mnt/music/
 ```
 
 ## What does it actually do?
