@@ -39,7 +39,7 @@ $ node index.js [options] libraryPath
 ## Examples
 
 ```sh
-$ node index.js --clean /mnt/music/
+$ node index.js --clean --dry /mnt/music/
 ```
 
 ```sh
